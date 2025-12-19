@@ -418,27 +418,6 @@ ChromaDB Vector Store
 
 ---
 
-## 📞 Support & Resources
-
-### Quick Links
-- **Launch App:** `streamlit run app.py`
-- **Run Tests:** `python tests/test_system.py`
-- **Full Demo:** `python demo_full_system.py`
-
-### Documentation
-- [README.md](README.md) - Overview
-- [SETUP_GUIDE.md](docs/SETUP_GUIDE.md) - Installation
-- [ARCHITECTURE.md](docs/ARCHITECTURE.md) - System design
-- [STREAMLIT_APP_GUIDE.md](docs/STREAMLIT_APP_GUIDE.md) - User guide
-
-### Troubleshooting
-1. Check console for errors
-2. Enable verbose mode
-3. Review test results
-4. Check API quota
-
----
-
 ## 🎉 Final Notes
 
 ### What We Achieved
